@@ -12,7 +12,7 @@ Includes Exploratory Data Analysis and Predictive Data Analysis (Market Basket)
 I got my dataset from kaggle.com. It is a bakery dataset.
 
 # Data Cleaning
-I cleaned the data using excel, I removed duplicates and blank rows. I also did some data wrangling by drilling down the date column into month and days. 
+I cleaned the data using excel, I removed duplicates and blank rows. I also did some data wrangling by drilling down the date column into month and days using INDEX and MATCH, YEAR, TEXT and COUNTIF functions.
 
 # Findings & Recommendations
 - Sales are highest during the weekend. However, the sales are uniform during the weekdays.
